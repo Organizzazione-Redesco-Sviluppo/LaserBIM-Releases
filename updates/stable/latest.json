@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.16",
+    "version":  "1.0.17",
     "platform":  "windows-x64",
-    "released_at":  "2026-11-20T11:38:58Z",
-    "notes":  "Aggiornamenti di licenza, sicurezza e preventivi",
+    "released_at":  "2026-11-20T14:11:26Z",
+    "notes":  "Sistemati piccoli bug",
     "artifact":  {
-                     "url":  "https://github.com/Organizzazione-Redesco-Sviluppo/LaserBIM-Releases/releases/download/v1.0.16/LaserBim-1.0.16-win-x64.lbupdate",
-                     "filename":  "LaserBim-1.0.16-win-x64.lbupdate",
-                     "size":  215754290,
-                     "sha256":  "d791ffe550f6464f5a317b0e9985fe34fb0b13203cc22b6b01b727f5ab0568a3",
+                     "url":  "https://github.com/Organizzazione-Redesco-Sviluppo/LaserBIM-Releases/releases/download/v1.0.17/LaserBim-1.0.17-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.17-win-x64.lbupdate",
+                     "size":  215754661,
+                     "sha256":  "971e8e0d463d59c4c070063fc3a23bb0e7ee818c1338b36e3207e6bc9768e358",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "laserbim-ad2608d023bdbb16"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "Qr4pXziGXTMyA2fMJi/CD3JD5ZEtlpQ1ijXC1/y+hdrH5vCbO+fBXyIbMx2YEO3IjtgF8MTOZMA0KQcJxBrcBw=="
+                                       "value":  "ZAfiQw8cwaHZv6lUd2X5r37qk6q87LDCGTzLnyC0aN4J7x7TtEnOTw7YL7G8VALqUMao0jLKm64kfqnYax/hAQ=="
                                    }
                  }
 }
