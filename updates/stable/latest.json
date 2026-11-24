@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "channel":  "stable",
-    "version":  "1.0.17",
+    "version":  "1.0.18",
     "platform":  "windows-x64",
-    "released_at":  "2026-11-20T14:11:26Z",
-    "notes":  "Sistemati piccoli bug",
+    "released_at":  "2026-11-24T13:38:18Z",
+    "notes":  "Inserita la possibilità di aprire l\u0027app in modalità VPN, senza accesso al server",
     "artifact":  {
-                     "url":  "https://github.com/Organizzazione-Redesco-Sviluppo/LaserBIM-Releases/releases/download/v1.0.17/LaserBim-1.0.17-win-x64.lbupdate",
-                     "filename":  "LaserBim-1.0.17-win-x64.lbupdate",
-                     "size":  215754661,
-                     "sha256":  "971e8e0d463d59c4c070063fc3a23bb0e7ee818c1338b36e3207e6bc9768e358",
+                     "url":  "https://github.com/Organizzazione-Redesco-Sviluppo/LaserBIM-Releases/releases/download/v1.0.18/LaserBim-1.0.18-win-x64.lbupdate",
+                     "filename":  "LaserBim-1.0.18-win-x64.lbupdate",
+                     "size":  215757097,
+                     "sha256":  "9f60d2b579bf0dffe0dfb2e066e495fad1a2318f1dbc0fe3b3928a91c5493b83",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "laserbim-ad2608d023bdbb16"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "ZAfiQw8cwaHZv6lUd2X5r37qk6q87LDCGTzLnyC0aN4J7x7TtEnOTw7YL7G8VALqUMao0jLKm64kfqnYax/hAQ=="
+                                       "value":  "hiRVA2ZjYPCeVE+fM7wX/VQ3xAk7530uACJEpwlIyCEdluc/JccGXlEJgc6t2zNzUs8YkZqN2KobzapgJ2k+Bw=="
                                    }
                  }
 }
